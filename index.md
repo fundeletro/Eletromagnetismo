@@ -105,7 +105,7 @@ cellpadding="10">
 </font>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=149 HEIGHT=62>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
 <font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q1 e Q2 são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k0 é uma constante eletrostática do vácuo ( 9*109N m2/ C2).
@@ -152,14 +152,14 @@ Outro texto.
 </P>
 
 <CENTER>
-  <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227>
+  <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=240 HEIGHT=227>
 </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=198>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
