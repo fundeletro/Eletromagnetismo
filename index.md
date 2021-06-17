@@ -63,8 +63,9 @@
   <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na relação o símbolo “G” representa a constante gravitacional universal, ou seja, é invariável em relação a qualquer partícula ou meio inserida. Seu valor no sistema internacional de medidas é:
   </font>
 </P>
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura5" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
+
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura6" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
   </CENTER>
 
 <hr>
@@ -84,8 +85,8 @@
   </font>
 </P>
 
- <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura6" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura5" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
   </CENTER>
 
 <P>
@@ -163,22 +164,25 @@ Outro texto.
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3*10-11 m, a massa do próton = 1,7*10-27 kg; massa do elétron =9,1*10-31 kg e constante universal de gravitação =6,67*10-11 N m2/kg2. Substituindo os dados, temos:</font>
 </P>
 
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227></CENTER>
+<CENTER>
+  <img src="https://user-images.githubusercontent.com/86071531/122484392-e3e8b200-cfaa-11eb-9d4c-cffae7a09ebb.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
+</CENTER>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6*10-19 C; carga do elétron =-1,6*1019 C e a constante de proporcionalidade= 9*109N m2/ C2. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
 </P>
 
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
-  </CENTER>
+<CENTER>
+  <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227>
+</CENTER>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
 </P>
 
-<center>Imagem</center>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
