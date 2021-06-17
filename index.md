@@ -67,15 +67,21 @@
 </P>
 
 ### <CENTER>Lei de Coulomb</CENTER>
+
 <font face="arial">
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
+  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
 Fe= k0Q1 Q2r2^r
-</P>
+  </P>
 </font>
 
+<font face="arial">
+  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vistos os conceitos, vamos à lei de Coulomb. Como quase sempre nestes casos, esta lei leva o nome de seu propositor, o cientista francês Charles Coulomb. Coulomb descobriu que a força elétrica que atua sobre dois corpos eletricamente carregados é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância.
+  </P>
+ </font>
+  
  <hr>
  
-## <CENTER>Aplicando conceitos</CENTER>
+## <CENTER>Aplicando conceitos//Relação</CENTER>
 <font face="arial">
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
 </P>
