@@ -3,28 +3,6 @@
 <P><h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1></P>
 
 
-  <CENTER>
-    <img src="![IMG02](https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG)" NAME="figura3" ALIGN=BOTTOM WIDTH=556 HEIGHT=131>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG03](https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg)" NAME="figura6" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG04](https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG)" NAME="figura7" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG05](https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG)" NAME="figura8" ALIGN=BOTTOM WIDTH=199 HEIGHT=83>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG06](https://user-images.githubusercontent.com/86071531/122482417-e5b07680-cfa6-11eb-927b-90fc53a8d217.PNG)" NAME="figura9" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG07](https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG)" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227>
-  </CENTER>
-  <CENTER>
-    <img src="![IMG08](https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG)" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
-  </CENTER>
-
 <p></p>
 
 <P align="justify">
@@ -85,7 +63,9 @@
   <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na relação o símbolo “G” representa a constante gravitacional universal, ou seja, é invariável em relação a qualquer partícula ou meio inserida. Seu valor no sistema internacional de medidas é:
   </font>
 </P>
-
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura5" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
+  </CENTER>
 
 <hr>
 
@@ -104,9 +84,13 @@
   </font>
 </P>
 
+ <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura6" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
+  </CENTER>
+
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=404 HEIGHT=103>
+    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura7" ALIGN=BOTTOM WIDTH=404 HEIGHT=103>
   </CENTER>
 </P>
 
@@ -136,6 +120,10 @@ cellpadding="10">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
   </P>
 </font>
+
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=199 HEIGHT=83>
+  </CENTER>
 
 <font face="arial" size="3">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q1 e Q2 são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k0 é uma constante eletrostática do vácuo ( 9*109N m2/ C2).
@@ -175,13 +163,16 @@ Outro texto.
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3*10-11 m, a massa do próton = 1,7*10-27 kg; massa do elétron =9,1*10-31 kg e constante universal de gravitação =6,67*10-11 N m2/kg2. Substituindo os dados, temos:</font>
 </P>
 
-<center>Imagem</center>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227></CENTER>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6*10-19 C; carga do elétron =-1,6*1019 C e a constante de proporcionalidade= 9*109N m2/ C2. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
 </P>
 
-imagem
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
