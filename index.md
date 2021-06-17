@@ -1,7 +1,7 @@
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
-# <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center>
-<body background="https://thumbs.dreamstime.com/b/pintura-mural-da-qu%C3%ADmica-modelos-at%C3%B4micos-e-partes-de-um-%C3%A1tomo-128884141.jpg">
+<h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
+
 <p></p>
 
 <P align="justify">
@@ -10,11 +10,11 @@
 </P>
 <p></p>
 
-</body>
+
 <HR>
 <p></p>
   
-## <CENTER>Força Gravitacional</CENTER>
+<h2> <CENTER>Força Gravitacional</CENTER></h2>
 
 
  <P align="justify">
@@ -63,9 +63,9 @@
 
 <hr>
 
-## <CENTER>Força Elétrica</CENTER>
+<h2><CENTER>Força Elétrica</CENTER></h2>
 
-### <CENTER>Carga Elétrica</CENTER>
+<h3><CENTER>Carga Elétrica</CENTER></h3>
 
 
 <P align="justify">
@@ -84,7 +84,7 @@
   </CENTER>
 </P>
 
-### <CENTER>Lei de Coulomb</CENTER>
+<h3><CENTER>Lei de Coulomb</CENTER></h3>
 
 <font face="arial">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
@@ -99,7 +99,8 @@ Fe= k0Q1 Q2r2^r
   
  <hr>
  
-## <CENTER>Aplicando conceitos//Relação</CENTER>
+<h2><CENTER>Aplicando conceitos//Relação</CENTER></h2>
+
 <font face="arial">
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
 </P>
@@ -117,7 +118,7 @@ Fe= k0Q1 Q2r2^r
 </P>
 </font>
 
-### <CENTER>Curiosidades</CENTER>
+<h3><CENTER>Curiosidades</CENTER></h3>
 <font face="arial">
 
 <CENTER>
@@ -129,7 +130,7 @@ Fe= k0Q1 Q2r2^r
 </font>
 
 
-### <CENTER>Referências Bibliograficas</CENTER>
+<h3><CENTER>Referências Bibliograficas</CENTER></h3>
 
 <p align="justify">Nossa imaginação! <3</p>
 
@@ -152,6 +153,6 @@ Syntax highlighted code block
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).</p>
 
 
-### <CENTER>Ressalvas</CENTER>
+<h3><CENTER>Ressalvas</CENTER></h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
