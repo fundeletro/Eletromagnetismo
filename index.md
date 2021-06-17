@@ -102,19 +102,18 @@ cellpadding="10">
 <p><h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3></p>
 
 <font face="arial" size="3">
-  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
-Fe= k0Q1 Q2r2^r
+  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
   </P>
 </font>
 
 <font face="arial" size="3">
-  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vistos os conceitos, vamos à lei de Coulomb. Como quase sempre nestes casos, esta lei leva o nome de seu propositor, o cientista francês Charles Coulomb. Coulomb descobriu que a força elétrica que atua sobre dois corpos eletricamente carregados é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância.
+  <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q1 e Q2 são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k0 é uma constante eletrostática do vácuo ( 9*109N m2/ C2).
   </P>
  </font>
   
  <hr>
  
-<p><h2><CENTER>Aplicando conceitos//Relação</CENTER></h2></p>
+<p><h2><CENTER>Relação</CENTER></h2></p>
 
  <table border="0" width="100%"
 cellpadding="10">
@@ -134,23 +133,56 @@ Outro texto.
 
 </tr>
 </table>
-  
-<font face="arial" size="3">
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
-</P>
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a massa do próton; massa do elétron e constante universal de gravitação. Substituindo os dados para o próton e o elétron a força gravitacional entre eles será de:
-</P>
-
-
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(YOUNG & FREEDMAN) Q2) Uma partícula α (o núcleo do átomo de hélio) possui massa m=6,64.10-27kg e carga q=+2e=3,2.10-19C. Compare o módulo da força de repulsão elétrica entre duas partículas α com o módulo da força de atração gravitacional entre elas.</p>
-
  
-<P>
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122140521-d8b64a80-ce21-11eb-82ab-7c30e792dc3c.png" NAME="figura4" ALIGN=BOTTOM WIDTH=404 HEIGHT=190>
-  </CENTER>
+ <p><h3><CENTER>Aplicando os conceitos</CENTER></h3></p>
+ 
+ 
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que apresentamos estas leis da física, sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional entre um elétron e um próton no núcleo de hidrogênio. Sendo uma aplicação simples das fórmulas já apresentadas.</font>
 </P>
-</font>
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3*10-11 m, a massa do próton = 1,7*10-27 kg; massa do elétron =9,1*10-31 kg e constante universal de gravitação =6,67*10-11 N m2/kg2. Substituindo os dados, temos:</font>
+</P>
+
+Imagem
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6*10-19 C; carga do elétron =-1,6*1019 C e a constante de proporcionalidade= 9*109N m2/ C2. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
+</P>
+
+imagem
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
+</P>
+
+Imagem
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
+</P>
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando se é pensado nas interações, tanto gravitacional quanto eletrostática, no meio macroscópico precisamos fixar um referencial para que seja possível discutir as implicações de ambas no meio ao redor da vida.</font>
+</P>
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando é discutido apenas interações entre um próton e um elétron por uma ótica macroscópica, não conseguimos perceber essas interações no cotidiano. Apesar de ser possível ter ciência de que toda a matéria existente é constituída por meio dessas interações, que formam os átomos. Nessa ótica, discutir as interações gravitacionais se torna irrisório, devido a baixíssima massa das partículas, tendo em vista que são desprezíveis comparadas às forças elétricas.</font>
+</P>
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma discussão sobre interações de objetos do dia a dia, pode ser colocado que elas não são observadas facilmente devido à baixíssima magnitude de suas forças, mas é possível observá-las. Uma experiência para que seja percebido uma interação de força elétrica com objetos do cotidiano é por exemplo a eletricidade estática de algumas televisões antigas, que conseguem atrair, por exemplo, pelos do braço de uma pessoa, tendo em vista que durante um momento esses objetos possuem cargas, negativas ou positivas. Essas atividades eletrostáticas nos levam também a ter de adotar medidas de segurança ao realizar certas atividades, como por exemplo o transporte de combustíveis, pois o atrito do ar atmosférico com o equipamento que realiza o transporte pode fazer com que o tanque dele seja carregado eletricamente, podendo causar algum acidente. Observar as atrações gravitacionais entre dois objetos do cotidiano se torna impossível devido a essas forças por possuírem magnitudes extremamente baixas. Por exemplo, quando uma pessoa guarda um mamão ao lado de uma goiaba em uma fruteira essa pessoa terá uma preocupação com atração gravitacional entre elas? As frutas irão se tocar após um determinado tempo devido a atração? A resposta para essa pergunta é que nunca irão se tocar devido a baixíssima força de atração gravitacional entre elas, observando também que a força de atrito entre as superfícies das frutas e da fruteira é maior que a força de atração fazendo com que elas permaneçam estáticas. Gostaria de saber a força de atração entre um determinado mamão e uma determinada goiaba clique aqui.</font>
+</P>
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discutindo interações de corpos celestes a força gravitacional é muito mais perceptível, um grande exemplo é um buraco negro, objeto com a massa imensamente grande que por esse motivo possui uma força gravitacional suficientemente grande para nem a luz consiga escapar dessa atração gravitacional. Essa atração gravitacional elevada aos parâmetros humanos consegue inclusive dilatar o espaço-tempo, fazendo com que o tempo próximo a um buraco negro seja mais rápido tendo o planeta terra como referencial, como comprovado e explicado pela teoria da relatividade geral de Albert Einstein. Um outro exemplo é o próprio planeta terra que sua massa é grande o suficiente para atrair todos os objetos que estão no planeta, incluindo o ar atmosférico mantendo a manutenção da vida na terra, dentre outros motivos. Por outro lado, as interações elétricas nesses referenciais são pequenas o suficiente para serem desprezíveis.</font>
+</P>
+
+<P align="justify">
+<font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma característica que faz com que a atração gravitacional seja mais percebida no dia a dia, apesar de ser uma interação mais fraca dentre as quatro fundamentais, é ela estar atrelada a massa dos corpos envolvidos, e o fato é que os humanos estão muito próximos a um corpo de massa muito grande, o planeta terra. Por esse motivo todo o tempo é possível observar a força gravitacional, pois estamos em um corpo de massa elevada. Por exemplo, uma maçã que cai na cabeça de um estudioso é devido à atração gravitacional entre a terra e o objeto, como toda e qualquer queda no planeta.</font>
+</P>
+
+
 
 <p><h3><CENTER>Curiosidades</CENTER></h3></p>
 <font face="arial" size="3">
@@ -158,10 +190,6 @@ Outro texto.
 <CENTER>
   <IFRAME WIDTH="577" HEIGHT="271" SRC="https://www.youtube.com/embed/T41VKdFa3eU"></IFRAME>
 </CENTER>
-</font>
- 
-<font face="arial" size="3">
-  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sobre as figuras envolvidas na formulação das duas leis</p>
 </font>
 
 
