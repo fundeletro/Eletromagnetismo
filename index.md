@@ -48,6 +48,7 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 </P>
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curiosidade: Qual a atração gravitacional entre duas frutas? Clique <a href="https://youtu.be/Ml97r6O_WgE/">aqui</a>.</P></font>
 
+ <hr>
 
 ## <CENTER>Força Elétrica</CENTER>
 
@@ -72,7 +73,9 @@ FE= k0Q1 Q2r2^r
 </P>
 </font>
 
-### <CENTER>Aplicando conceitos</CENTER>
+ <hr>
+ 
+## <CENTER>Aplicando conceitos</CENTER>
 <font face="arial">
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
 </P>
