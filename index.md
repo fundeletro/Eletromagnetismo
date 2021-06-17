@@ -1,11 +1,11 @@
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
-<h1> <center><font face="arial" size="3,5" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
+<h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
 
 <p></p>
 
 <P align="justify">
-  <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
+  <font face="arial" size="3,5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
 </P>
 <p></p>
