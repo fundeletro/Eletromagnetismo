@@ -2,6 +2,29 @@
 
 <P><h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1></P>
 
+
+  <CENTER>
+    <img src="![IMG02](https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG)" NAME="figura3" ALIGN=BOTTOM WIDTH=556 HEIGHT=131>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG03](https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg)" NAME="figura6" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG04](https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG)" NAME="figura7" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG05](https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG)" NAME="figura8" ALIGN=BOTTOM WIDTH=199 HEIGHT=83>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG06](https://user-images.githubusercontent.com/86071531/122482417-e5b07680-cfa6-11eb-927b-90fc53a8d217.PNG)" NAME="figura9" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG07](https://user-images.githubusercontent.com/86071531/122482414-e3e6b300-cfa6-11eb-95a5-16781e571b0b.PNG)" NAME="figura10" ALIGN=BOTTOM WIDTH=274 HEIGHT=227>
+  </CENTER>
+  <CENTER>
+    <img src="![IMG08](https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG)" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
+  </CENTER>
+
 <p></p>
 
 <P align="justify">
@@ -29,19 +52,27 @@
   <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos Ilustrar da seguinte forma esse comportamento:
   </font>
 </P>
-  
+
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482436-ef39de80-cfa6-11eb-8d06-7224991ccdf5.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=400 HEIGHT=104>
+  </CENTER>
+
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=83>
+    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=83>
   </CENTER>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos também realizar a quantização do sistema por meio da relação:</font>
 </P>
 
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=556 HEIGHT=131>
+  </CENTER>
+
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=102>
+    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura4" ALIGN=BOTTOM WIDTH=404 HEIGHT=102>
   </CENTER>
 </P>
 
