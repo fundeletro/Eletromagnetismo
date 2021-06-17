@@ -65,7 +65,7 @@
 
 <h2><CENTER>Força Elétrica</CENTER></h2>
 
-<h3><CENTER><font size="3,6">Carga Elétrica</font></CENTER></h3>
+<h3><CENTER><font size="4">Carga Elétrica</font></CENTER></h3>
 
 
 <P align="justify">
@@ -104,7 +104,7 @@ cellpadding="10">
 </table>
 
  
-<h3><CENTER><font size="3,6"Lei de Coulomb</font></CENTER></h3>
+<h3><CENTER><font size="4"Lei de Coulomb</font></CENTER></h3>
 
 <font face="arial" size="3">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
