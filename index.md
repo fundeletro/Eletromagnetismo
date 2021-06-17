@@ -37,7 +37,7 @@
   </CENTER>
 </P>
 
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos também realizar a quantização do sistema por meio da relação:
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos também realizar a quantização do sistema por meio da relação:</font>
 </P>
 
 <P>
@@ -104,7 +104,7 @@ cellpadding="10">
 </table>
 
  
-<h3><CENTER><font size="4"Lei de Coulomb</font></CENTER></h3>
+<h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3>
 
 <font face="arial" size="3">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
