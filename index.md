@@ -5,8 +5,7 @@
 
 <p></p>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
-  </font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.</font>
 </P>
 <p></p>
 
@@ -17,7 +16,7 @@
 <p><h2> <CENTER>Força Gravitacional</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
  </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m1) e 2 (massa m2) onde há um deslocamento relativo r12.
