@@ -144,7 +144,7 @@ Outro texto.
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3*10-11 m, a massa do próton = 1,7*10-27 kg; massa do elétron =9,1*10-31 kg e constante universal de gravitação =6,67*10-11 N m2/kg2. Substituindo os dados, temos:</font>
 </P>
 
-Imagem
+<center>Imagem</center>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6*10-19 C; carga do elétron =-1,6*1019 C e a constante de proporcionalidade= 9*109N m2/ C2. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
@@ -156,7 +156,7 @@ imagem
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparando as duas forças temos:</font>
 </P>
 
-Imagem
+<center>Imagem</center>
 
 <P align="justify">
 <font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
