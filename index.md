@@ -48,11 +48,12 @@
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
 
- <hr>
+<hr>
 
 ## <CENTER>Força Elétrica</CENTER>
 
 ### <CENTER>Carga Elétrica</CENTER>
+
 <font face="arial">
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conceito de carga vem da observação da natureza: nós observamos forças entre objetos. Carga elétrica é a propriedade dos objetos que leva a esta percepção de força, é a grandeza física que determina a intensidade das interações eletromagnéticas, da mesma forma que a massa determina a intensidade das forças gravitacionais.
 </P>
