@@ -31,26 +31,19 @@
   </font>
 </P>
 
-<CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482436-ef39de80-cfa6-11eb-8d06-7224991ccdf5.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=400 HEIGHT=104>
-  </CENTER>
-
 <P>
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=404 HEIGHT=83>
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482436-ef39de80-cfa6-11eb-8d06-7224991ccdf5.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=300 HEIGHT=78>
   </CENTER>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos também realizar a quantização do sistema por meio da relação:</font>
 </P>
 
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=556 HEIGHT=131>
-  </CENTER>
 
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122330960-7422ea80-cf0a-11eb-8035-16bc06593031.PNG" NAME="figura4" ALIGN=BOTTOM WIDTH=404 HEIGHT=102>
+    <img src="https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=311 HEIGHT=73>
   </CENTER>
 </P>
 
@@ -65,7 +58,7 @@
 </P>
 
  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura6" ALIGN=BOTTOM WIDTH=243 HEIGHT=58>
+    <img src="https://user-images.githubusercontent.com/86071531/122482421-e6e1a380-cfa6-11eb-89aa-2cda24603c39.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=231 HEIGHT=55>
   </CENTER>
 
 <hr>
@@ -86,7 +79,7 @@
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura5" ALIGN=BOTTOM WIDTH=700 HEIGHT=420>
+    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura4" ALIGN=BOTTOM WIDTH=252 HEIGHT=151>
   </CENTER>
 
 <P>
@@ -123,7 +116,7 @@ cellpadding="10">
 </font>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=199 HEIGHT=83>
+    <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=149 HEIGHT=62>
   </CENTER>
 
 <font face="arial" size="3">
