@@ -1,4 +1,6 @@
-<link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
+<html>
+  <body>
+    <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
 <h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
 
@@ -101,6 +103,25 @@ Fe= k0Q1 Q2r2^r
  
 <h2><CENTER>Aplicando conceitos//Relação</CENTER></h2>
 
+ <table border="0" width="100%"
+cellpadding="10">
+<tr>
+
+<td width="50%" valign="top">
+Este é um texto. Este é um texto.
+Este é um texto. Este é um texto.
+Este é um texto.
+</td>
+
+<td width="50%" valign="top">
+Outro texto.Outro texto. Outro texto.
+Outro texto. Outro texto. Outro texto.
+Outro texto.
+</td>
+
+</tr>
+</table>
+  
 <font face="arial">
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que entendemos sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional e elétrica em duas situações. Primeiro entre um elétron e um próton no núcleo de hidrogênio, e no segundo caso ... . Pela Lei da Gravitação Universal a intensidade da força gravitacional é dada por FG= GM mr2, enquanto pela Lei de Coulomb a intensidade da força elétrica é dada por  FE= k0|Q||q|r2.
 </P>
@@ -156,3 +177,6 @@ Syntax highlighted code block
 <h3><CENTER>Ressalvas</CENTER></h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
+
+ </body>
+</html>
