@@ -172,11 +172,3 @@ Outro texto.
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
 <p align="justify">Nossa imaginação! <3</p>
-
-
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).</p>
-
-
-<p><h3><CENTER>Ressalvas</CENTER></h3></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
