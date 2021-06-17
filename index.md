@@ -1,6 +1,4 @@
-<html>
-  <body  bgcolor="black">
-    <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
+<link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
 <h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
 
@@ -162,6 +160,3 @@ Outro texto.
 <h3><CENTER>Ressalvas</CENTER></h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
-
- </body>
-</html>
