@@ -89,8 +89,8 @@ cellpadding="10">
 
 <td width="50%" valign="top">
 <P>
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=270 HEIGHT=69>
+<CENTER>
+    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura4" ALIGN=BOTTOM WIDTH=252 HEIGHT=151>
   </CENTER>
 </P></td>
 
