@@ -1,5 +1,5 @@
 <html>
-  <body>
+  <body  bgcolor="black">
     <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
 
 <h1> <center><font face="arial" color="blue">Intensidade Relativa <br> das Forças Gravitacionais e Elétricas</font></center></h1>
@@ -155,21 +155,6 @@ Outro texto.
 
 <p align="justify">Nossa imaginação! <3</p>
 
-
-```markdown
-Syntax highlighted code block
-
-# Cabeçalho 1
-## Cabeçalho 2
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).</p>
 
