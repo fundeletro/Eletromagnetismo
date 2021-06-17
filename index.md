@@ -14,7 +14,7 @@
 <HR>
 <p></p>
   
-<h2> <CENTER>Força Gravitacional</CENTER></h2>
+<p><h2> <CENTER>Força Gravitacional</CENTER></h2></p>
 
 
  <P align="justify">
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2><CENTER>Força Elétrica</CENTER></h2>
+<p><h2><CENTER>Força Elétrica</CENTER></h2></p>
 
 <h3><CENTER><font size="4">Carga Elétrica</font></CENTER></h3>
 
@@ -103,7 +103,7 @@ cellpadding="10">
 </table>
 
  
-<h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3>
+<p><h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3></p>
 
 <font face="arial" size="3">
   <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
@@ -118,7 +118,7 @@ Fe= k0Q1 Q2r2^r
   
  <hr>
  
-<h2><CENTER>Aplicando conceitos//Relação</CENTER></h2>
+<p><h2><CENTER>Aplicando conceitos//Relação</CENTER></h2></p>
 
  <table border="0" width="100%"
 cellpadding="10">
@@ -156,7 +156,7 @@ Outro texto.
 </P>
 </font>
 
-<h3><CENTER>Curiosidades</CENTER></h3>
+<p><h3><CENTER>Curiosidades</CENTER></h3></p>
 <font face="arial" size="3">
 
 <CENTER>
@@ -169,7 +169,7 @@ Outro texto.
 </font>
 
 
-<h3><CENTER>Referências Bibliograficas</CENTER></h3>
+<p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
 <p align="justify">Nossa imaginação! <3</p>
 
@@ -177,6 +177,6 @@ Outro texto.
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Para obter mais detalhes, consulte [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).</p>
 
 
-<h3><CENTER>Ressalvas</CENTER></h3>
+<p><h3><CENTER>Ressalvas</CENTER></h3></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Está tendo problemas com o Pages? Verifique nossa [documentation](https://docs.github.com/categories/github-pages-basics/) ou [contact support](https://support.github.com/contact) e nós o ajudaremos a resolver o problema...
