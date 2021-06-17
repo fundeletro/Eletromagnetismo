@@ -1,6 +1,7 @@
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/85965849/122329635-26a57e00-cf08-11eb-9522-a89398c551bd.png"/>
   
-# <font face="arial" color="blue">Intensidade Relativa das Forças Gravitacionais e Elétricas</font>
+# <font face="arial" color="blue">Intensidade Relativa 
+  das Forças Gravitacionais e Elétricas</font>
 
 
  
