@@ -16,13 +16,14 @@
   
 ## <CENTER>Força Gravitacional</CENTER>
 <font face="arial">
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...]que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente[...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa (quer saber um pouco mais sobre massa? Clique no <a href="https://youtu.be/fhCt_hWLXog/">link</a>.
+<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Issac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa. (quer saber um pouco mais sobre massa? Clique no <a href="https://youtu.be/fhCt_hWLXog/">link</a>.
 </P>
 
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m1) e 2 (massa m2) onde há um deslocamento relativo r12.
-Podemos Ilustrar da seguinte forma esse comportamento:
 </P>
-
+<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos Ilustrar da seguinte forma esse comportamento:
+</P>
+  
 <P>
   <CENTER>
     <img src="https://user-images.githubusercontent.com/85965849/122330857-49389680-cf0a-11eb-93ce-43b1cc1c9ca6.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=404 HEIGHT=83>
@@ -38,15 +39,14 @@ Podemos Ilustrar da seguinte forma esse comportamento:
   </CENTER>
 </P>
 
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r12=|r12| é a distância entre as partículas 1 e 2. Ao passo que r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca a forças gravitacionais de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de   fazendo com que a relação adquira o sinal negativo.
+<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r12=|r12| é a distância entre as partículas 1 e 2. Ao passo que	^r=r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r12 fazendo com que a relação adquira o sinal negativo.
 </P>
   
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na relação o símbolo “G” representa a constante gravitacional universal, ou seja, é invariável em relação a qualquer partícula ou meio inserida. Seu valor no sistema internacional de medidas é .
+<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na relação o símbolo “G” representa a constante gravitacional universal, ou seja, é invariável em relação a qualquer partícula ou meio inserida. Seu valor no sistema internacional de medidas é:
 </P>
 
 <P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O que significa esse valor de G? Quer dizer que quando temos duas partículas de 1kg separadas a 1 metro de distância temos  de atração de força gravitacional. Em quesito de comparação esse valor é ~10-5 vezes o valor da força peso de um fio de cabelo na terra, provando quão pequena é a intensidade da força gravitacional, mais fraca dentre as 4 fundamentais.
 </P>
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curiosidade: Qual a atração gravitacional entre duas frutas? Clique <a href="https://youtu.be/Ml97r6O_WgE/">aqui</a>.</P></font>
 
  <hr>
 
@@ -68,8 +68,8 @@ Podemos Ilustrar da seguinte forma esse comportamento:
 
 ### <CENTER>Lei de Coulomb</CENTER>
 <font face="arial">
-<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais,  pode ser descrito como:
-FE= k0Q1 Q2r2^r
+<P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Augustin de Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o vetor força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais, pode ser descrito como:
+Fe= k0Q1 Q2r2^r
 </P>
 </font>
 
