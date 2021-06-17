@@ -84,6 +84,26 @@
   </CENTER>
 </P>
 
+ <table border="0" width="100%"
+cellpadding="10">
+<tr>
+
+<td width="50%" valign="top"><P align="justify">
+  <font face="arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
+  </font>
+</P></td>
+
+<td width="50%" valign="top">
+<P>
+  <CENTER>
+    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura3" ALIGN=BOTTOM WIDTH=404 HEIGHT=103>
+  </CENTER>
+</P></td>
+
+</tr>
+</table>
+
+ 
 <h3><CENTER>Lei de Coulomb</CENTER></h3>
 
 <font face="arial">
