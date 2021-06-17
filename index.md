@@ -8,10 +8,11 @@
   <font align="justify" face="arial"> O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.
   </font>
 </P>
-<font face="arial">
 
+ 
 <HR>
-
+ 
+  
 ## <CENTER>Força Gravitacional</CENTER>
 <font face="arial">
 <P align="justify">
