@@ -102,14 +102,16 @@ cellpadding="10">
  
 <p><h2><CENTER>Relação</CENTER></h2></p>
 
-<ul><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Da mesma forma que a massa determina a intensidade das forças gravitacionais, a força elétrica é proporcional ao produto das cargas.	 Ao mesmo tempo que o módulo de ambas as forças são inversamente proporcionais ao quadrado da distância.</font>
+<ul type="circle">
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Da mesma forma que a massa determina a intensidade das forças gravitacionais, a força elétrica é proporcional ao produto das cargas.	 Ao mesmo tempo que o módulo de ambas as forças são inversamente proporcionais ao quadrado da distância.</font>
 </P>
 
-<ul><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font>
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font>
 </P>
 
-<ul><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font>
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font>
 </P>
+</ul>
 
  <table border="0" width="100%"
 cellpadding="10">
@@ -154,7 +156,7 @@ Outro texto.
 </P>
 
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=198>
+    <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
