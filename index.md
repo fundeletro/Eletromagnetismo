@@ -5,7 +5,7 @@
 
 <p></p>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das 4 forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conteúdo a seguir visa entender um pouco da relação entre as forças gravitacionais e elétricas, duas das quatro forças fundamentais, sendo as outras duas: a força nuclear forte e a força nuclear fraca. A natureza pode ser totalmente compreendida por meio da descrição destas quatro interações básicas.</font>
 </P>
 <p></p>
 
@@ -16,7 +16,7 @@
 <p><h2> <CENTER>Força Gravitacional</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: "[...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]". No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
  </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m<sub>1</sub>) e 2 (massa m<sub>2</sub>) onde há um deslocamento relativo r<sub>12</sub>.
@@ -171,3 +171,4 @@ cellpadding="10">
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
 <p align="justify"><font face="arial" size="3">NUSSENZVEIG, H. <b>Moysés Curso de Física Básica 1: Mecânica</b>, Editora Edgard Blücher, 2013.</font></p>
+<p align="justify"><font face="arial" size="3">CORRADI, Wagner. <b>Fundamentos de Física I </b>/. Disponível em: http://lilith.fisica.ufmg.br/~wag/TRANSF/TEACHING/FUNDAMENTOS_FISICA3_2PP_OUT2010_WCORRADI.pdf. Acesso em 16 de junho de 2021.</font></p>
