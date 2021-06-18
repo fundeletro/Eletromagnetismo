@@ -170,4 +170,4 @@ cellpadding="10">
 
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
-<p align="justify">Nossa imaginação! <3</p>
+<p align="justify"><font face="arial" size="3">NUSSENZVEIG, H. <b>Moysés Curso de Física Básica 1: Mecânica</b>, Editora Edgard Blücher, 2013.</font></p>
