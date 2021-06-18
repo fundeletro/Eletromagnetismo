@@ -94,7 +94,7 @@ cellpadding="10">
     <img src="https://user-images.githubusercontent.com/86071531/122482419-e6490d00-cfa6-11eb-9543-77d81132a308.PNG" NAME="figura8" ALIGN=BOTTOM WIDTH=139 HEIGHT=58>
   </CENTER>
 
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q1 e Q2 são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k0 é uma constante eletrostática do vácuo ( 9*109N m2/ C2).
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em que  Q<sub>1</sub> e Q<sub>2</sub> são as cargas elétricas; ^r  é o vetor unitário na direção que passa pelas cargas elétricas e k<sub>0</sub> é uma constante eletrostática do vácuo ( 9 x 10<sup>9</sup> N m<sup>2</sup>/ C<sup>2</sup>).
   </P>
  </font>
   
@@ -118,14 +118,14 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que apresentamos estas leis da física, sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional entre um elétron e um próton no núcleo de hidrogênio. Sendo uma aplicação simples das fórmulas já apresentadas.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3*10-11 m, a massa do próton = 1,7*10-27 kg; massa do elétron =9,1*10-31 kg e constante universal de gravitação =6,67*10-11 N m2/kg2. Substituindo os dados, temos:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3 x 10<sup>-11</sup> m, a massa do próton =1,7 x10<sup>-27</sup> kg; massa do elétron =9,1 x10<sup>-31</sup> kg e constante universal de gravitação =6,67 x10<sup>-11</sup> N m<sup>2</sup>/kg<sup>2</sup>. Substituindo os dados, temos:</font>
 </P>
 
 <CENTER>
   <img src="https://user-images.githubusercontent.com/86071531/122484392-e3e8b200-cfaa-11eb-9d4c-cffae7a09ebb.PNG" NAME="figura10" ALIGN=BOTTOM WIDTH=235 HEIGHT=205>
 </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6*10-19 C; carga do elétron =-1,6*1019 C e a constante de proporcionalidade= 9*109N m2/ C2. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando a carga do próton =1,6 x10<sup>-19</sup> C; carga do elétron =-1,6 x10<sup>19</sup> C e a constante de proporcionalidade= 9 x10<sup>9</sup> N m<sup>2</sup>/ C<sup>2</sup>. Substituindo os dados na lei de Coulomb, nós temos que a força elétrica é dada por:</font>
 </P>
 
 <CENTER>
@@ -139,7 +139,7 @@ cellpadding="10">
     <img src="https://user-images.githubusercontent.com/86071531/122482412-e21cef80-cfa6-11eb-8f41-412328729638.PNG" NAME="figura11" ALIGN=BOTTOM WIDTH=160 HEIGHT=169>
   </CENTER>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2x1039 vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este resultado significa que a força elétrica tem uma intensidade 2,2 x10<sup>39</sup> vezes maior que a intensidade da força gravitacional entre um próton e um elétron no átomo de hidrogênio. Sendo a força gravitacional desprezível em comparação à força elétrica. Isso é sempre verdade para interações entre partículas atômicas e subatômicas. Contudo, entre dois corpos do tamanho de uma pessoa ou de um planeta, em geral a carga líquida positiva é aproximadamente igual à carga líquida negativa, logo a força elétrica é muito menor que a força gravitacional.</font>
 </P>
 
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quando se é pensado nas interações, tanto gravitacional quanto eletrostática, no meio macroscópico precisamos fixar um referencial para que seja possível discutir as implicações de ambas no meio ao redor da vida.</font>
