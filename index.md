@@ -65,20 +65,6 @@
   </font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem dois tipos de cargas elétricas: positivas e negativas. As cargas elétricas de mesmo sinal se repelem, as de sinais contrários se atraem, isso ocorre devido ao spin dos elétrons.
-  </font>
-</P>
-
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482423-e812d080-cfa6-11eb-8a3c-1ebcb7aab51f.jpg" NAME="figura4" ALIGN=BOTTOM WIDTH=252 HEIGHT=151>
-  </CENTER>
-
-<P>
-  <CENTER>
-    <img src="https://user-images.githubusercontent.com/85965849/122331101-a6cce300-cf0a-11eb-9fe3-10b6c31e11f8.PNG" NAME="figura7" ALIGN=BOTTOM WIDTH=404 HEIGHT=103>
-  </CENTER>
-</P>
-
  <table border="0" width="100%"
 cellpadding="10">
 <tr>
