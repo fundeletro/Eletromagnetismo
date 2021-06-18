@@ -86,8 +86,7 @@ cellpadding="10">
  
 <p><h3><CENTER><font size="4">Lei de Coulomb</font></CENTER></h3></p>
 
-<div align="left"><img src="https://user-images.githubusercontent.com/86071531/122488419-cff57e00-cfb3-11eb-9c7b-9255609cbe64.jpg" WIDTH=139 HEIGHT=58></div>
-<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
+<font face="arial" size="3"><P align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86071531/122488419-cff57e00-cfb3-11eb-9c7b-9255609cbe64.jpg" WIDTH=209 HEIGHT=230 ALIGN="LEFT">As forças entre cargas elétricas são forças de campo, isto é, forças de ação à distância, podendo ser forças atrativas ou repulsivas. Em 1785, Charles Coulomb (1736 - 1806) realizou uma série de medidas cuidadosas das forças entre duas cargas e através dessas medidas, Coulomb mostrou que o módulo da força elétrica que atua tanto para atração como para a repulsão de cargas elétricas pontuais é diretamente proporcional às suas cargas e inversamente proporcional ao quadrado da distância, e o vetor força pode ser descrito como:
   </P>
 </font>
 
