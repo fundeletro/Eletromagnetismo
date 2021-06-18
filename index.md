@@ -16,10 +16,10 @@
 <p><h2> <CENTER>Força Gravitacional</CENTER></h2></p>
 
 
-<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
+<P align="justify"><font face="arial" size="3"><img src="https://user-images.githubusercontent.com/86071531/122490242-eb628800-cfb7-11eb-88d8-caeafb38cad9.jpg" WIDTH=215 HEIGHT=231 ALIGN="RIGHT" alt="Isaac Newton" title="Isaac Newton">&nbsp;&nbsp;&nbsp;&nbsp;Em uma das cartas, escritas por Isaac Newton, ao Dr. Richard Bentley, Newton disse: [...] que a gravidade seja inata, inerente e essencial à matéria, de modo que um corpo possa atuar sobre outro à distância através do vácuo, sem mediação de algum agente [...]. No entanto, qual a mensagem a ser passada quando Newton escreveu essa frase? Mesmo naquela época, no início da compreensão da gravidade, já se sabia que a força gravitacional era uma força na qual sua existência dependia única e exclusivamente do objeto possuir massa.</font>
  </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m1) e 2 (massa m2) onde há um deslocamento relativo r12.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Essas interações de matéria sobre matéria são chamadas de interações gravitacionais. A lei da gravitação universal de Newton é a mais conhecida e antiga lei que descreve o comportamento interativo de duas partículas 1 (massa m<sub>1</sub>) e 2 (massa m<sub>2</sub>) onde há um deslocamento relativo r<sub>12</sub>.
   </font>
 </P>
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos Ilustrar da seguinte forma esse comportamento:
@@ -42,7 +42,7 @@
   </CENTER>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r12=|r12| é a distância entre as partículas 1 e 2. Ao passo que	^r=r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r12 fazendo com que a relação adquira o sinal negativo.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r<sub>12</sub>=|r12| é a distância entre as partículas 1 e 2. Ao passo que	^r=r12/r12 é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F2(1), exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r12 fazendo com que a relação adquira o sinal negativo.
   </font>
 </P>
   
@@ -111,25 +111,6 @@ cellpadding="10">
   </li>
 </ul>
 
-
-<table border="0" width="100%"
-cellpadding="10">
-<tr>
-
-<td width="50%" valign="top">
-Este é um texto. Este é um texto.
-Este é um texto. Este é um texto.
-Este é um texto.
-</td>
-
-<td width="50%" valign="top">
-Outro texto.Outro texto. Outro texto.
-Outro texto. Outro texto. Outro texto.
-Outro texto.
-</td>
-
-</tr>
-</table>
  
  <p><h3><CENTER>Aplicando os conceitos</CENTER></h3></p>
  
