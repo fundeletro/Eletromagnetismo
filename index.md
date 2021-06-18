@@ -42,7 +42,7 @@
   </CENTER>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r<sub>12</sub>=|r<sub>12</sub>| é a distância entre as partículas 1 e 2. Ao passo que ^r=<b>r</<sub>12</sub></b>/r<sub>12</sub> é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F<sub>2(1)</sub>, exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r<sub>12</sub> fazendo com que a relação adquira o sinal negativo.
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na qual r<sub>12</sub>=|r<sub>12</sub>| é a distância entre as partículas 1 e 2. Ao passo que ^r=<b>r<sub>12</sub></b>/r<sub>12</sub> é o vetor unitário que vai da partícula 1 para a partícula 2. Explicando: A relação diz que a magnitude da força gravitacional é diretamente proporcional à massa das partículas e inversamente proporcional ao quadrado da distância que as separa. A força está dirigida em uma reta que toca as duas partículas e é sempre atrativa, nunca as forças gravitacionais são de repulsão, onde a força F<sub>2(1)</sub>, exercida por 1 sobre 2, está direcionada a 1, que é o sentido oposto de ^r<sub>12</sub> fazendo com que a relação adquira o sinal negativo.
   </font>
 </P>
   
@@ -118,7 +118,7 @@ cellpadding="10">
 <P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agora que apresentamos estas leis da física, sobre duas das forças mais importantes de nossa existência, está na hora de relacioná-las. Para isso, podemos pensar em um exercício simples. Iremos calcular a intensidade da força gravitacional entre um elétron e um próton no núcleo de hidrogênio. Sendo uma aplicação simples das fórmulas já apresentadas.</font>
 </P>
 
-<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3 x 10<sup>-11</sup> m, a massa do próton =1,7 x10<sup>-27</sup> kg; massa do elétron =9,1 x10<sup>-31</sup> kg e constante universal de gravitação =6,67 x10<sup>-11</sup> N m<sup>2</sup>/kg<sup>2</sup>. Substituindo os dados, temos:</font>
+<P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considerando que o elétron e o próton estão a uma distância de 5,3 x10<sup>-11</sup> m, a massa do próton =1,7 x10<sup>-27</sup> kg; massa do elétron =9,1 x10<sup>-31</sup> kg e constante universal de gravitação =6,67 x10<sup>-11</sup> N m<sup>2</sup>/kg<sup>2</sup>. Substituindo os dados, temos:</font>
 </P>
 
 <CENTER>
