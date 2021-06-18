@@ -171,4 +171,6 @@ cellpadding="10">
 <p><h3><CENTER>Referências Bibliograficas</CENTER></h3></p>
 
 <p align="justify"><font face="arial" size="3">NUSSENZVEIG, H. <b>Moysés Curso de Física Básica 1: Mecânica</b>, Editora Edgard Blücher, 2013.</font></p>
-<p align="justify"><font face="arial" size="3">CORRADI, Wagner. <b>Fundamentos de Física I </b>/. Disponível em: http://lilith.fisica.ufmg.br/~wag/TRANSF/TEACHING/FUNDAMENTOS_FISICA3_2PP_OUT2010_WCORRADI.pdf. Acesso em 16 de junho de 2021.</font></p>
+<p align="justify"><font face="arial" size="3">CORRADI, Wagner. <b>Fundamentos de Física I </b>/. Disponível em: http://lilith.fisica.ufmg.br/~wag/TRANSF/TEACHING/FUNDAMENTOS_FISICA3_2PP_<br>OUT2010_WCORRADI.pdf. Acesso em 16 de junho de 2021.</font></p>
+<p align="justify"><font face="arial" size="3">TODAMATÉRIA. <b>Lei de Coulomb</b>. Disponível em: https://www.todamateria.com.br/lei-de-coulomb/. Acesso em: 17 de Dezembro de 2020.</font></p>
+<p align="justify"><font face="arial" size="3">YOUNG & FREEDMAN. <b>Física III: Eletromagnetismo</b>. São Paulo, 2015.</font></p>
