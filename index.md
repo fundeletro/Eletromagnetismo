@@ -28,7 +28,7 @@
 
 <P>
 <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482436-ef39de80-cfa6-11eb-8d06-7224991ccdf5.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=300 HEIGHT=78>
+    <img src="https://user-images.githubusercontent.com/86071531/122482436-ef39de80-cfa6-11eb-8d06-7224991ccdf5.PNG" NAME="figura1" ALIGN=BOTTOM WIDTH=285 HEIGHT=74>
   </CENTER>
 </P>
 
@@ -38,7 +38,7 @@
 
 <P>
   <CENTER>
-    <img src="https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=311 HEIGHT=73>
+    <img src="https://user-images.githubusercontent.com/86071531/122482435-eea14800-cfa6-11eb-9daa-60ec3fe208cb.PNG" NAME="figura2" ALIGN=BOTTOM WIDTH=295 HEIGHT=69>
   </CENTER>
 </P>
 
