@@ -104,12 +104,12 @@ cellpadding="10">
 
 <ul type="circle">
   <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Da mesma forma que a massa determina a intensidade das forças gravitacionais, a força elétrica é proporcional ao produto das cargas.	 Ao mesmo tempo que o módulo de ambas as forças são inversamente proporcionais ao quadrado da distância.</font>
-</P></ul>
+</P></li>
 
- <ul type="circle"><li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font></ul>
-</P>
-
-<ul type="circle"><li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font></P></ul>
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font></P></li>
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font></P>
+  </li>
+</ul>
 
 
 <table border="0" width="100%"
