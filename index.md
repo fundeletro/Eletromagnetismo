@@ -109,11 +109,10 @@ cellpadding="10">
   <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forças gravitacionais são sempre forças atrativas, enquanto a elétrica pode ser repulsiva.	</font>
 </P>
 
-  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font>
-</P>
+  <li><P align="justify"><font face="arial" size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As duas forças obedecem ao Princípio de Superposição.</font></P>
 </ul>
 
- <table border="0" width="100%"
+<table border="0" width="100%"
 cellpadding="10">
 <tr>
 
